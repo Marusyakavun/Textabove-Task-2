@@ -1,0 +1,12 @@
+.imag{
+    height: 400px;
+    width: 400px;
+    background-image: url(./Danilo.jpg);
+    background-size: cover;
+}
+
+.text{
+    margin-top: -200px;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
